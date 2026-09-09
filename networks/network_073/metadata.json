@@ -1,0 +1,10 @@
+{
+  "network_id": "network_073",
+  "original_id": "AN_73",
+  "original_name": "paterson",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 5,
+  "n_victims": 93,
+  "connectance": 0.5741935
+}

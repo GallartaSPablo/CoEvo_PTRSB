@@ -1,0 +1,10 @@
+{
+  "network_id": "network_102",
+  "original_id": "AN_102",
+  "original_name": "sbayhuron",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 97,
+  "n_victims": 33,
+  "connectance": 0.0987192
+}

@@ -1,0 +1,10 @@
+{
+  "network_id": "network_039",
+  "original_id": "AN_39",
+  "original_name": "krylov",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 10,
+  "n_victims": 10,
+  "connectance": 0.73
+}

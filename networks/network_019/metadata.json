@@ -1,0 +1,10 @@
+{
+  "network_id": "network_019",
+  "original_id": "AN_19",
+  "original_name": "coldlake_complex",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 32,
+  "n_victims": 10,
+  "connectance": 0.225
+}

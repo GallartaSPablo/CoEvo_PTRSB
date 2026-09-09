@@ -1,0 +1,10 @@
+{
+  "network_id": "network_032",
+  "original_id": "AN_32",
+  "original_name": "guandu_complex",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 52,
+  "n_victims": 19,
+  "connectance": 0.0921053
+}

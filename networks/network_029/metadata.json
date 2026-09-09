@@ -1,0 +1,10 @@
+{
+  "network_id": "network_029",
+  "original_id": "AN_29",
+  "original_name": "duplessis",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 12,
+  "n_victims": 12,
+  "connectance": 0.2569444
+}

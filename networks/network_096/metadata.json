@@ -1,0 +1,10 @@
+{
+  "network_id": "network_096",
+  "original_id": "AN_96",
+  "original_name": "radloffanddutoit",
+  "interaction_type": "predator.prey",
+  "interaction_subtype": "predation",
+  "n_exploiters": 4,
+  "n_victims": 18,
+  "connectance": 0.6666667
+}

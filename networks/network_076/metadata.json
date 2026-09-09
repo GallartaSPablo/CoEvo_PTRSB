@@ -1,0 +1,10 @@
+{
+  "network_id": "network_076",
+  "original_id": "AN_76",
+  "original_name": "poullain",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 23,
+  "n_victims": 24,
+  "connectance": 0.1938406
+}

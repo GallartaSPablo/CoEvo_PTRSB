@@ -1,0 +1,10 @@
+{
+  "network_id": "network_074",
+  "original_id": "AN_74",
+  "original_name": "planicieparana_complex",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 181,
+  "n_victims": 55,
+  "connectance": 0.0315419
+}

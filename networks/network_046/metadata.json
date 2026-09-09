@@ -1,0 +1,10 @@
+{
+  "network_id": "network_046",
+  "original_id": "AN_46",
+  "original_name": "lakemichigan_simple",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 17,
+  "n_victims": 16,
+  "connectance": 0.125
+}

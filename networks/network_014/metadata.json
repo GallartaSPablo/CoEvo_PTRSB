@@ -1,0 +1,10 @@
+{
+  "network_id": "network_014",
+  "original_id": "AN_14",
+  "original_name": "capparelli",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 8,
+  "n_victims": 16,
+  "connectance": 0.421875
+}

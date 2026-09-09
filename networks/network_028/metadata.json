@@ -1,0 +1,10 @@
+{
+  "network_id": "network_028",
+  "original_id": "AN_28",
+  "original_name": "doi",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 9,
+  "n_victims": 11,
+  "connectance": 0.4141414
+}

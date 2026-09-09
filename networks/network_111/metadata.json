@@ -1,0 +1,10 @@
+{
+  "network_id": "network_111",
+  "original_id": "AN_111",
+  "original_name": "synott",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 16,
+  "n_victims": 16,
+  "connectance": 0.8085938
+}

@@ -1,0 +1,10 @@
+{
+  "network_id": "network_083",
+  "original_id": "AN_83",
+  "original_name": "pred15",
+  "interaction_type": "predator.prey",
+  "interaction_subtype": "predation",
+  "n_exploiters": 37,
+  "n_victims": 15,
+  "connectance": 0.1675676
+}

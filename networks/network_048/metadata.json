@@ -1,0 +1,10 @@
+{
+  "network_id": "network_048",
+  "original_id": "AN_48",
+  "original_name": "lakeontario_simple",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 101,
+  "n_victims": 51,
+  "connectance": 0.0345564
+}

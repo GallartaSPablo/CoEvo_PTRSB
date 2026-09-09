@@ -1,0 +1,10 @@
+{
+  "network_id": "network_013",
+  "original_id": "AN_13",
+  "original_name": "campbell",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 5,
+  "n_victims": 5,
+  "connectance": 0.56
+}

@@ -1,0 +1,10 @@
+{
+  "network_id": "network_002",
+  "original_id": "AN_2",
+  "original_name": "aishihik_complex",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 19,
+  "n_victims": 7,
+  "connectance": 0.4661654
+}

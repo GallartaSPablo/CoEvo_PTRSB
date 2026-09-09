@@ -1,0 +1,10 @@
+{
+  "network_id": "network_031",
+  "original_id": "AN_31",
+  "original_name": "goodridge",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 2,
+  "n_victims": 49,
+  "connectance": 0.6122449
+}

@@ -1,0 +1,10 @@
+{
+  "network_id": "network_026",
+  "original_id": "AN_26",
+  "original_name": "devilslake_complex",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 16,
+  "n_victims": 6,
+  "connectance": 0.2708333
+}

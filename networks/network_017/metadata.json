@@ -1,0 +1,10 @@
+{
+  "network_id": "network_017",
+  "original_id": "AN_17",
+  "original_name": "coastalrj_complex",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 200,
+  "n_victims": 39,
+  "connectance": 0.0598718
+}

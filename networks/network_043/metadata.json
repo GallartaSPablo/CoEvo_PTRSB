@@ -1,0 +1,10 @@
+{
+  "network_id": "network_043",
+  "original_id": "AN_43",
+  "original_name": "lakehuron_complex",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 203,
+  "n_victims": 73,
+  "connectance": 0.0521628
+}

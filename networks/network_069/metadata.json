@@ -1,0 +1,10 @@
+{
+  "network_id": "network_069",
+  "original_id": "AN_69",
+  "original_name": "owensmith",
+  "interaction_type": "predator.prey",
+  "interaction_subtype": "predation",
+  "n_exploiters": 5,
+  "n_victims": 22,
+  "connectance": 0.8
+}

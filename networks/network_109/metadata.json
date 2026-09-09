@@ -1,0 +1,10 @@
+{
+  "network_id": "network_109",
+  "original_id": "AN_109",
+  "original_name": "sullivan",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 44,
+  "n_victims": 20,
+  "connectance": 0.1681818
+}

@@ -1,0 +1,10 @@
+{
+  "network_id": "network_016",
+  "original_id": "AN_16",
+  "original_name": "ceyssens",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 12,
+  "n_victims": 4,
+  "connectance": 0.6041667
+}

@@ -1,0 +1,10 @@
+{
+  "network_id": "network_119",
+  "original_id": "AN_119",
+  "original_name": "woods_simple",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 43,
+  "n_victims": 30,
+  "connectance": 0.0596899
+}

@@ -1,0 +1,10 @@
+{
+  "network_id": "network_114",
+  "original_id": "AN_114",
+  "original_name": "trespalos_complex",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 32,
+  "n_victims": 13,
+  "connectance": 0.2475962
+}

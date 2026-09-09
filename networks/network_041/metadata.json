@@ -1,0 +1,10 @@
+{
+  "network_id": "network_041",
+  "original_id": "AN_41",
+  "original_name": "lakeerie_complex",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 218,
+  "n_victims": 90,
+  "connectance": 0.046738
+}

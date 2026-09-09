@@ -1,0 +1,10 @@
+{
+  "network_id": "network_117",
+  "original_id": "AN_117",
+  "original_name": "wichels",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 22,
+  "n_victims": 59,
+  "connectance": 0.2449923
+}

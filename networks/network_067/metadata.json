@@ -1,0 +1,10 @@
+{
+  "network_id": "network_067",
+  "original_id": "AN_67",
+  "original_name": "miklic",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 14,
+  "n_victims": 18,
+  "connectance": 0.2777778
+}

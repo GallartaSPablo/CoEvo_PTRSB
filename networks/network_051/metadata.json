@@ -1,0 +1,10 @@
+{
+  "network_id": "network_051",
+  "original_id": "AN_51",
+  "original_name": "lakesuperior_simple",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 46,
+  "n_victims": 24,
+  "connectance": 0.0615942
+}

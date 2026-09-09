@@ -1,0 +1,10 @@
+{
+  "network_id": "network_040",
+  "original_id": "AN_40",
+  "original_name": "kudva",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 3,
+  "n_victims": 11,
+  "connectance": 1.0
+}

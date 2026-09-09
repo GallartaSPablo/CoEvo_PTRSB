@@ -1,0 +1,10 @@
+{
+  "network_id": "network_122",
+  "original_id": "AN_122",
+  "original_name": "zinno",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 27,
+  "n_victims": 17,
+  "connectance": 0.1067538
+}

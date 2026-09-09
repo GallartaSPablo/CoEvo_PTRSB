@@ -1,0 +1,10 @@
+{
+  "network_id": "network_108",
+  "original_id": "AN_108",
+  "original_name": "stmary_simple",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 2,
+  "n_victims": 3,
+  "connectance": 0.5
+}

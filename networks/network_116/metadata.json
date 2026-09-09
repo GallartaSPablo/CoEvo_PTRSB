@@ -1,0 +1,10 @@
+{
+  "network_id": "network_116",
+  "original_id": "AN_116",
+  "original_name": "wang",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 7,
+  "n_victims": 8,
+  "connectance": 0.1964286
+}

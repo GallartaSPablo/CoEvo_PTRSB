@@ -1,0 +1,10 @@
+{
+  "network_id": "network_053",
+  "original_id": "AN_53",
+  "original_name": "lebsko_complex",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 11,
+  "n_victims": 8,
+  "connectance": 0.25
+}

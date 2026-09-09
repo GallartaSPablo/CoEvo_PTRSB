@@ -1,0 +1,10 @@
+{
+  "network_id": "network_008",
+  "original_id": "AN_8",
+  "original_name": "barrangou",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 6,
+  "n_victims": 7,
+  "connectance": 0.5952381
+}

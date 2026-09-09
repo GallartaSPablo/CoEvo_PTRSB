@@ -1,0 +1,10 @@
+{
+  "network_id": "network_010",
+  "original_id": "AN_10",
+  "original_name": "bengal_complex",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 42,
+  "n_victims": 37,
+  "connectance": 0.045045
+}

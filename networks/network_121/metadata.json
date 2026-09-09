@@ -1,0 +1,10 @@
+{
+  "network_id": "network_121",
+  "original_id": "AN_121",
+  "original_name": "zarivar_simple",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 15,
+  "n_victims": 7,
+  "connectance": 0.2095238
+}

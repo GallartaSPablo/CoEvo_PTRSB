@@ -1,0 +1,10 @@
+{
+  "network_id": "network_037",
+  "original_id": "AN_37",
+  "original_name": "holmfeldt",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 46,
+  "n_victims": 22,
+  "connectance": 0.4130435
+}

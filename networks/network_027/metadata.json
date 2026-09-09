@@ -1,0 +1,10 @@
+{
+  "network_id": "network_027",
+  "original_id": "AN_27",
+  "original_name": "devilslake_simple",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 5,
+  "n_victims": 3,
+  "connectance": 0.3333333
+}

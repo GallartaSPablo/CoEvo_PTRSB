@@ -1,0 +1,10 @@
+{
+  "network_id": "network_057",
+  "original_id": "AN_57",
+  "original_name": "marathon",
+  "interaction_type": "plant.herbivor",
+  "interaction_subtype": "herbivory",
+  "n_exploiters": 24,
+  "n_victims": 54,
+  "connectance": 0.1334877
+}

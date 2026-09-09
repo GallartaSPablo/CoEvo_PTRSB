@@ -1,0 +1,10 @@
+{
+  "network_id": "network_021",
+  "original_id": "AN_21",
+  "original_name": "comeau2005",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 13,
+  "n_victims": 23,
+  "connectance": 0.5083612
+}

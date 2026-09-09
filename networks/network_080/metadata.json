@@ -1,0 +1,10 @@
+{
+  "network_id": "network_080",
+  "original_id": "AN_80",
+  "original_name": "pred12",
+  "interaction_type": "plant.herbivor",
+  "interaction_subtype": "herbivory",
+  "n_exploiters": 87,
+  "n_victims": 50,
+  "connectance": 0.022069
+}

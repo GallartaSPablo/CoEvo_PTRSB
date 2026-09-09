@@ -1,0 +1,10 @@
+{
+  "network_id": "network_060",
+  "original_id": "AN_60",
+  "original_name": "mclaughlin",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 6,
+  "n_victims": 5,
+  "connectance": 0.6
+}

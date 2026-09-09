@@ -1,0 +1,10 @@
+{
+  "network_id": "network_052",
+  "original_id": "AN_52",
+  "original_name": "langley",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 9,
+  "n_victims": 33,
+  "connectance": 0.3333333
+}

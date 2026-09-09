@@ -1,0 +1,10 @@
+{
+  "network_id": "network_118",
+  "original_id": "AN_118",
+  "original_name": "woods_complex",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 101,
+  "n_victims": 30,
+  "connectance": 0.1013201
+}

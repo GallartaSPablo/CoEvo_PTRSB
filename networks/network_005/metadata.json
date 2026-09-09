@@ -1,0 +1,10 @@
+{
+  "network_id": "network_005",
+  "original_id": "AN_5",
+  "original_name": "aluksnes_complex",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 18,
+  "n_victims": 46,
+  "connectance": 0.2270531
+}

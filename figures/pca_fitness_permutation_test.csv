@@ -1,0 +1,9 @@
+regimen,gremio,R2_adj_observado,p_valor_empirico,n_permutaciones
+xiE=0.1_xiV=0.1,E,0.7677,0.0,5000
+xiE=0.1_xiV=0.1,V,0.7425,0.0,5000
+xiE=0.9_xiV=0.1,E,0.7712,0.0,5000
+xiE=0.9_xiV=0.1,V,0.5947,0.0,5000
+xiE=0.1_xiV=0.9,E,0.6595,0.0,5000
+xiE=0.1_xiV=0.9,V,0.1161,0.0006,5000
+xiE=0.9_xiV=0.9,E,0.7935,0.0,5000
+xiE=0.9_xiV=0.9,V,0.7433,0.0,5000

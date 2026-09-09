@@ -1,0 +1,10 @@
+{
+  "network_id": "network_034",
+  "original_id": "AN_34",
+  "original_name": "hansen",
+  "interaction_type": "predator.prey",
+  "interaction_subtype": "predation",
+  "n_exploiters": 17,
+  "n_victims": 10,
+  "connectance": 0.6529412
+}

@@ -1,0 +1,10 @@
+{
+  "network_id": "network_106",
+  "original_id": "AN_106",
+  "original_name": "stenholm",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 22,
+  "n_victims": 24,
+  "connectance": 0.6590909
+}

@@ -1,0 +1,10 @@
+{
+  "network_id": "network_001",
+  "original_id": "AN_1",
+  "original_name": "abe",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 4,
+  "n_victims": 10,
+  "connectance": 0.55
+}

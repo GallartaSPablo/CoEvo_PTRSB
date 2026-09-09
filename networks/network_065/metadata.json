@@ -1,0 +1,10 @@
+{
+  "network_id": "network_065",
+  "original_id": "AN_65",
+  "original_name": "meyer",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 26,
+  "n_victims": 24,
+  "connectance": 0.5032051
+}

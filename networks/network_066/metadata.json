@@ -1,0 +1,10 @@
+{
+  "network_id": "network_066",
+  "original_id": "AN_66",
+  "original_name": "middelboe",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 24,
+  "n_victims": 11,
+  "connectance": 0.7651515
+}

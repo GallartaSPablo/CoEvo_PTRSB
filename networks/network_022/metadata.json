@@ -1,0 +1,10 @@
+{
+  "network_id": "network_022",
+  "original_id": "AN_22",
+  "original_name": "comeau2006",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 16,
+  "n_victims": 17,
+  "connectance": 0.4338235
+}

@@ -1,0 +1,10 @@
+{
+  "network_id": "network_054",
+  "original_id": "AN_54",
+  "original_name": "lebsko_simple",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 3,
+  "n_victims": 7,
+  "connectance": 0.5238095
+}

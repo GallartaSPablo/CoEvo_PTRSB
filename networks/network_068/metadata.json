@@ -1,0 +1,10 @@
+{
+  "network_id": "network_068",
+  "original_id": "AN_68",
+  "original_name": "mizoguchi",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 4,
+  "n_victims": 7,
+  "connectance": 0.75
+}

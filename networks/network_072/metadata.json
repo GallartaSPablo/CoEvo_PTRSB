@@ -1,0 +1,10 @@
+{
+  "network_id": "network_072",
+  "original_id": "AN_72",
+  "original_name": "parsnip_simple",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 11,
+  "n_victims": 12,
+  "connectance": 0.1893939
+}

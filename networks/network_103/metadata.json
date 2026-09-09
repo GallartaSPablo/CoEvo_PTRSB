@@ -1,0 +1,10 @@
+{
+  "network_id": "network_103",
+  "original_id": "AN_103",
+  "original_name": "seed",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 6,
+  "n_victims": 10,
+  "connectance": 0.5166667
+}

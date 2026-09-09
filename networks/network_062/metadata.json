@@ -1,0 +1,10 @@
+{
+  "network_id": "network_062",
+  "original_id": "AN_62",
+  "original_name": "medioparana_simple",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 31,
+  "n_victims": 18,
+  "connectance": 0.0752688
+}

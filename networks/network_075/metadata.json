@@ -1,0 +1,10 @@
+{
+  "network_id": "network_075",
+  "original_id": "AN_75",
+  "original_name": "planicieparana_simple",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 130,
+  "n_victims": 40,
+  "connectance": 0.0303846
+}

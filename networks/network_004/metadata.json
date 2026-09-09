@@ -1,0 +1,10 @@
+{
+  "network_id": "network_004",
+  "original_id": "AN_4",
+  "original_name": "altuda",
+  "interaction_type": "plant.herbivor",
+  "interaction_subtype": "herbivory",
+  "n_exploiters": 22,
+  "n_victims": 52,
+  "connectance": 0.1608392
+}

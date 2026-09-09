@@ -1,0 +1,10 @@
+{
+  "network_id": "network_030",
+  "original_id": "AN_30",
+  "original_name": "gamage",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 5,
+  "n_victims": 4,
+  "connectance": 0.45
+}

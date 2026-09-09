@@ -1,0 +1,10 @@
+{
+  "network_id": "network_056",
+  "original_id": "AN_56",
+  "original_name": "littlecolorado_simple",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 8,
+  "n_victims": 8,
+  "connectance": 0.203125
+}

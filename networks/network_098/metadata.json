@@ -1,0 +1,10 @@
+{
+  "network_id": "network_098",
+  "original_id": "AN_98",
+  "original_name": "raznas_simple",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 28,
+  "n_victims": 31,
+  "connectance": 0.1313364
+}

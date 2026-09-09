@@ -1,0 +1,10 @@
+{
+  "network_id": "network_070",
+  "original_id": "AN_70",
+  "original_name": "pantucek",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 4,
+  "n_victims": 88,
+  "connectance": 0.9147727
+}

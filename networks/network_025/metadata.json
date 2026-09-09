@@ -1,0 +1,10 @@
+{
+  "network_id": "network_025",
+  "original_id": "AN_25",
+  "original_name": "depaola",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 17,
+  "n_victims": 5,
+  "connectance": 0.4588235
+}

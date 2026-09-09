@@ -1,0 +1,10 @@
+{
+  "network_id": "network_012",
+  "original_id": "AN_12",
+  "original_name": "braunbreton",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 3,
+  "n_victims": 17,
+  "connectance": 0.5882353
+}

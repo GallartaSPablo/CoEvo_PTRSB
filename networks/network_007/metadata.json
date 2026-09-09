@@ -1,0 +1,10 @@
+{
+  "network_id": "network_007",
+  "original_id": "AN_7",
+  "original_name": "bac15",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 12,
+  "n_victims": 25,
+  "connectance": 0.4866667
+}

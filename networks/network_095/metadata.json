@@ -1,0 +1,10 @@
+{
+  "network_id": "network_095",
+  "original_id": "AN_95",
+  "original_name": "quiberoni",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 11,
+  "n_victims": 20,
+  "connectance": 0.4045455
+}

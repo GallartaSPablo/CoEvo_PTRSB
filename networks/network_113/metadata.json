@@ -1,0 +1,10 @@
+{
+  "network_id": "network_113",
+  "original_id": "AN_113",
+  "original_name": "tonkin_simple",
+  "interaction_type": "host.parasite",
+  "interaction_subtype": "parasitism",
+  "n_exploiters": 57,
+  "n_victims": 38,
+  "connectance": 0.0452447
+}

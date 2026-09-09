@@ -1,0 +1,9 @@
+{
+  "network_id": "network_000",
+  "original_id": "00",
+  "description": "Synthetic perfectly nested (triangular) bipartite network used to illustrate the trait-based coevolutionary model (Fig. 1a and the Figure 2/3 temporal-dynamics panels), not part of the 122-network empirical dataset in network_001..network_122.",
+  "structure": "fully nested",
+  "n_exploiters": 5,
+  "n_victims": 5,
+  "connectance": 0.6
+}

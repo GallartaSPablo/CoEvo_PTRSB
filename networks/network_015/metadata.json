@@ -1,0 +1,10 @@
+{
+  "network_id": "network_015",
+  "original_id": "AN_15",
+  "original_name": "caso",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 4,
+  "n_victims": 9,
+  "connectance": 0.4722222
+}

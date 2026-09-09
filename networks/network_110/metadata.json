@@ -1,0 +1,10 @@
+{
+  "network_id": "network_110",
+  "original_id": "AN_110",
+  "original_name": "suttle",
+  "interaction_type": "bacteria.phage",
+  "interaction_subtype": "predation",
+  "n_exploiters": 7,
+  "n_victims": 6,
+  "connectance": 0.2619048
+}

@@ -1,0 +1,10 @@
+{
+  "network_id": "network_009",
+  "original_id": "AN_9",
+  "original_name": "basker",
+  "interaction_type": "predator.prey",
+  "interaction_subtype": "predation",
+  "n_exploiters": 8,
+  "n_victims": 16,
+  "connectance": 0.5078125
+}
