@@ -5,7 +5,7 @@ Simulation code and analysis notebook for:
 > Gallarta-Sáenz, P., Lamata-Otín, S., Gómez-Gardeñes, J. & de Andreazzi, C. S.
 > *Network structure and species connectivity drive asymmetric fitness
 > outcomes in coevolving antagonistic communities.
-> (https://doi.org/10.32942/X2BT4H)*
+> (https://ecoevorxiv.org/repository/view/15367/)*
 
 This repository reproduces every figure in the article: the trait-based
 coevolutionary dynamics (Eqs. 1–4) and species fitness (Eqs. 5–6), simulated
